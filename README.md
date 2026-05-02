@@ -11,6 +11,9 @@ Computer Science StudentCoding in C | Python | JavaScript Building projects arou
 ![](https://github-readme-stats.shion.dev/api?username=YounesAmazzalOriginal&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=YounesAmazzalOriginal&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YounesAmazzalOriginal&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 [![](https://komarev.com/ghpvc/?username=YounesAmazzalOriginal&icon=0&color=0)](https://visitcount.itsvg.in)
